@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s.nuseirat\\source\\repos\\AngularApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB73700-798D-408B-9DAB-C7B4B4517916}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\s.nuseirat\\source\\repos\\angularapp1\\angularapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB73700-798D-408B-9DAB-C7B4B4517916}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB73700-798D-408B-9DAB-C7B4B4517916}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\s.nuseirat\\source\\repos\\angularapp1\\angularapp1.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BB73700-798D-408B-9DAB-C7B4B4517916}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8722E96A-5D6D-4764-93A2-ACE4BC393416}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\s.nuseirat\\source\\repos\\angularapp1\\angularapp1.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8722E96A-5D6D-4764-93A2-ACE4BC393416}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\s.nuseirat\\source\\repos\\AngularApp1\\AngularApp1.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\s.nuseirat\\source\\repos\\AngularApp1\\AngularApp1.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AngularApp1.Server\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T13:16:10.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "proxy.conf.js",
+              "DocumentMoniker": "C:\\Users\\s.nuseirat\\source\\repos\\AngularApp1\\angularapp1.client\\src\\proxy.conf.js",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\proxy.conf.js",
+              "ToolTip": "C:\\Users\\s.nuseirat\\source\\repos\\AngularApp1\\angularapp1.client\\src\\proxy.conf.js",
+              "RelativeToolTip": "angularapp1.client\\src\\proxy.conf.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-01T11:27:24.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s.nuseirat\\source\\repos\\AngularApp1\\AngularApp1.Server\\Program.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\s.nuseirat\\source\\repos\\AngularApp1\\AngularApp1.Server\\Program.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:23:52.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

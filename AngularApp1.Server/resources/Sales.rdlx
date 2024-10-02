@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://cdn.grapecity.com/ActiveReports/reporting/2023/08/reportdefinition">
+	<Name>multisectionreport1</Name>
+	<ReportSections>
+		<ReportSection Name="ContinuousSection1">
+			<Body>
+				<Height>2pt</Height>
+			</Body>
+			<Page>
+				<ColumnSpacing>0in</ColumnSpacing>
+				<PaperOrientation>Portrait</PaperOrientation>
+				<PageHeight>11in</PageHeight>
+				<PageWidth>8.5in</PageWidth>
+				<TopMargin>1in</TopMargin>
+				<BottomMargin>1in</BottomMargin>
+				<LeftMargin>1in</LeftMargin>
+				<RightMargin>1in</RightMargin>
+			</Page>
+			<Width>2pt</Width>
+		</ReportSection>
+	</ReportSections>
+	<CustomProperties>
+		<CustomProperty>
+			<Name>DisplayType</Name>
+			<Value>Page</Value>
+		</CustomProperty>
+		<CustomProperty>
+			<Name>SizeType</Name>
+			<Value>Default</Value>
+		</CustomProperty>
+		<CustomProperty>
+			<Name>CollapseWhiteSpace</Name>
+			<Value>True</Value>
+		</CustomProperty>
+	</CustomProperties>
+	<ReportThemes>
+		<ThemeUri>Cordial.default.rdlx-theme</ThemeUri>
+	</ReportThemes>
+</Report>
